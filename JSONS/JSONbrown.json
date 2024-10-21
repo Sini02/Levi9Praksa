@@ -1,9 +1,9 @@
 {
   "id": 1,
   "name": "Braon Duks",
-  "CompanyName1",
-  "Price": 29.99,
-  "DeliveryAddress": {
+  "companyName": "TechGadgets Inc.",
+  "price": 29.99,
+  "deliveryAddress": {
     "street": "123 Tech Avenue",
     "city": "TechCity",
     "state": "CA",
