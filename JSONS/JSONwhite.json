@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Beli Duks",
+  "CompanyName1",
+  "Price": 29.99,
+  "DeliveryAddress": {
+    "street": "789 Charge St",
+    "city": "EnergyCity",
+    "state": "TX",
+    "zip": "75001"
+  }
+}

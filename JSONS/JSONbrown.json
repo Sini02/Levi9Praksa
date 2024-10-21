@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Braon Duks",
+  "CompanyName1",
+  "Price": 29.99,
+  "DeliveryAddress": {
+    "street": "123 Tech Avenue",
+    "city": "TechCity",
+    "state": "CA",
+    "zip": "94016"
+  }
+}

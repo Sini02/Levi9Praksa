@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Plavi Duks",
+  "CompanyName1",
+  "Price": 29.99,
+  "DeliveryAddress": {
+    "street": "456 Sound Blvd",
+    "city": "MusicTown",
+    "state": "NY",
+    "zip": "10001"
+  }
+}
